@@ -1,11 +1,11 @@
-# How to write 
-It is the template to write the informations
+# Validation Guide Specification
 
-## Filename
-the filename is the same of the sigma rule.
-The directory structure have to be the same too.
+## Folders and Structure 
 
-## Body of the document
+The validation guides use the rule ID as their filename. 
+
+## Guide Template
+
 ```
 # Rule: Title
 Sigma rule ID : {id of the rule}
